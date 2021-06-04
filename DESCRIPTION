@@ -31,7 +31,15 @@ Imports:
     rio,
     rlang,
     tibble,
-    tools
+    tools,
+    DBI,
+    odbc,
+    RMySQL,
+    RMariaDB,
+    RPostgreSQL,
+    RSQLite,
+    bigrquery,
+    RODBC  
 Suggests: 
     testthat,
     knitr,
